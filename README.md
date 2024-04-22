@@ -16,6 +16,18 @@ If the video has long been mentioned as a widespread visualization form, the ani
 
 ![framework](https://github.com/LeHanhcs/SDPF_VideoResequencing/assets/37010753/027b6ea9-60e0-483a-8626-054c6c75d28d)
 
+Requirements
+---
+tensorflow==1.15
+tensorflow-estimator==1.15.1
+keras==2.3.1
+matplotlib
+scikit-image
+pandas
+tqdm
+opencv
+scikit-learn
+conda-forge::imageio-ffmpeg
 
 Guidance of data/code usage
 ---
