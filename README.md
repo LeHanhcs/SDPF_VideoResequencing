@@ -9,6 +9,7 @@ Paper
 ---
 * Published online on IEEE Transactions on Visualization and Computer Graphics, [link](https://ieeexplore.ieee.org/abstract/document/10018537)
 * Project website: [link](http://graphics.csie.ncku.edu.tw/SDPF)
+* Demo video: [youtube link](https://www.youtube.com/watch?v=IWZhudx1wPY)
 * Paper [*.pdf](TVCG_Video_Resequencing.pdf)
 
 Introduction
