@@ -1,5 +1,6 @@
 # Regenerating Arbitrary Video Sequences with Distillation Path-Finding
-by [Thi-Ngoc-Hanh Le](https://lehanhcs.github.io/), Sheng-Yi Yao, Chun-Te Wu and [Tong-Yee Lee](http://graphics.csie.ncku.edu.tw/). [Computer Graphics Group](http://graphics.csie.ncku.edu.tw/) at National Cheng-Kung University. <br>
+by [Thi-Ngoc-Hanh Le](https://lehanhcs.github.io/), Sheng-Yi Yao, Chun-Te Wu and [Tong-Yee Lee](http://graphics.csie.ncku.edu.tw/). <br>
+[Computer Graphics Group](http://graphics.csie.ncku.edu.tw/) at National Cheng-Kung University, Taiwan. <br>
 Training code will be updated. <br>
 
 This resposity is the official implementation of our video resequencing system. This paper has been accepted for publication on IEEE Transactions on Visualization and Computer Graphics (Jan/2023). <br>
