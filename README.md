@@ -54,12 +54,16 @@ Citation
 ---
 If our method is useful for your research, please consider citing:
 ```
-@article{yao2023regenerating,
-  title={Regenerating Arbitrary Video Sequences with Distillation Path-Finding},
+@ARTICLE{10018537,
   author={Le, Thi-Ngoc-Hanh and Yao, Sheng-Yi and Wu, Chun-Te and Lee, Tong-Yee},
-  journal={IEEE Transactions on Visualization and Computer Graphics},
+  journal={IEEE Transactions on Visualization and Computer Graphics}, 
+  title={Regenerating Arbitrary Video Sequences with Distillation Path-Finding}, 
   year={2023},
-  publisher={IEEE}
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Animation;Feature extraction;Correlation;Shape;Video sequences;Prediction algorithms;Measurement;animation;sequencing;RSFNet;distillation;SDPF},
+  doi={10.1109/TVCG.2023.3237739}}
 }
 ```
 
