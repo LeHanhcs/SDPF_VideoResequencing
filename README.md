@@ -18,6 +18,7 @@ If the video has long been mentioned as a widespread visualization form, the ani
 
 Requirements
 ---
+```
 tensorflow==1.15
 tensorflow-estimator==1.15.1
 keras==2.3.1
@@ -28,6 +29,7 @@ tqdm
 opencv
 scikit-learn
 conda-forge::imageio-ffmpeg
+```
 
 Guidance of data/code usage
 ---
