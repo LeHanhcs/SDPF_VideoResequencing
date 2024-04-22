@@ -8,6 +8,7 @@ Paper
 ---
 * Published online on IEEE Transactions on Visualization and Computer Graphics, [link](https://ieeexplore.ieee.org/abstract/document/10018537)
 * Project website: [link](http://graphics.csie.ncku.edu.tw/SDPF)
+* Paper [*.pdf](TVCG_Video_Resequencing.pdf)
 
 Introduction
 ---
@@ -27,6 +28,12 @@ Guidance of data/code usage
 * Input video: please download on our [project website](http://graphics.csie.ncku.edu.tw/SDPF) 
 * Extract input video to folder './data/image'. This folder will consist of splited frames from input video, optical flow files.
 * Set parameter 'start_frame' to define the starting frame of the new sequence.
+* Using [PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume](https://github.com/philferriere/tfoptflow) to generate optical flow of the input video.
+
+Acknowledgments
+---
+Thanks for the authors of [PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume](https://github.com/philferriere/tfoptflow) for the code of generating optical flow. <br>
+We inherit the code from their responsitory for optical flow production in our system.
 
 Citation
 ---
