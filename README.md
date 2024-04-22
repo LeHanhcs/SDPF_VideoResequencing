@@ -41,7 +41,7 @@ If our method is useful for your research, please consider citing:
 ```
 @article{yao2023regenerating,
   title={Regenerating Arbitrary Video Sequences with Distillation Path-Finding},
-  author={Le, Thi-Ngoc-Hanh and Yao, Sheng-Yi and Wu, Chun-Te and Lee, Tong-Yee and others},
+  author={Le, Thi-Ngoc-Hanh and Yao, Sheng-Yi and Wu, Chun-Te and Lee, Tong-Yee},
   journal={IEEE Transactions on Visualization and Computer Graphics},
   year={2023},
   publisher={IEEE}
